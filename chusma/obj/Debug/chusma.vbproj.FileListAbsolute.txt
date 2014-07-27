@@ -1,0 +1,10 @@
+C:\Users\Martin\Documents\Visual Studio 2008\Projects\chusma\chusma\bin\Debug\chusma.exe
+C:\Users\Martin\Documents\Visual Studio 2008\Projects\chusma\chusma\bin\Debug\chusma.pdb
+C:\Users\Martin\Documents\Visual Studio 2008\Projects\chusma\chusma\bin\Debug\chusma.xml
+C:\Users\Martin\Documents\Visual Studio 2008\Projects\chusma\chusma\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Martin\Documents\Visual Studio 2008\Projects\chusma\chusma\obj\Debug\chusma.Resources.resources
+C:\Users\Martin\Documents\Visual Studio 2008\Projects\chusma\chusma\obj\Debug\chusma.vbproj.GenerateResource.Cache
+C:\Users\Martin\Documents\Visual Studio 2008\Projects\chusma\chusma\obj\Debug\chusma.exe
+C:\Users\Martin\Documents\Visual Studio 2008\Projects\chusma\chusma\obj\Debug\chusma.xml
+C:\Users\Martin\Documents\Visual Studio 2008\Projects\chusma\chusma\obj\Debug\chusma.pdb
+C:\Users\Martin\Documents\Visual Studio 2008\Projects\chusma\chusma\obj\Debug\chusma.Form_Main.resources
