@@ -77,6 +77,7 @@ Public Class Form_Main
                     .Path = txtPath.Text
                     ' Enable or disable FileSystemWatcher
                     .EnableRaisingEvents = chkActivar.Checked
+                    .IncludeSubdirectories = True
                 End With
             End If
             ' error
